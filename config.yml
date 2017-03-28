@@ -1,0 +1,5 @@
+worlds:
+ - world
+sunproof-zombies: true
+sunproof-skeletons: true
+sunproof-pigmen: true

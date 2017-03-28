@@ -1,0 +1,4 @@
+name: SPF15
+main: com.was.spf15.SPF15
+version: 0.4-1
+commands:
